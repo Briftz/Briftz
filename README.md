@@ -1,5 +1,7 @@
 ### Hi there! I'm Sabrina 👋
+<div align="center">
 <img src="https://i.imgur.com/qk9KrxH.png">
+</div>
 
 ## About me
 
